@@ -25,9 +25,8 @@ Note: This script should only be used for educational or research purposes. Misu
 
 
 ## Quick & Easy Deployment Options
-<br>
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)]([https://replit.com/github/NebulaServices/Nebula](https://github.com/AroriaNetwork/GoGuardian-Bypass))
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/AroriaNetwork/GoGuardian-Bypass)
 <br>
 
 ## Disclaimer
