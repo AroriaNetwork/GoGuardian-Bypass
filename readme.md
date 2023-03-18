@@ -2,7 +2,7 @@
 
 The GoGuardian Bypass is a simple script that allows you to bypass the GoGuardian filter on your school or organization's network using iframes. 
 To join our Discord server, click here.
-[![Join our discord](https://raw.githubusercontent.com/NCCoder1/button/main/Discord.png)](https://discord.gg/8ABatmss76)
+
 
 ## 🚀 Features
 1. GoGuardian Bypass: Access blocked websites on your school or organization's network with the GoGuardian bypass script.
