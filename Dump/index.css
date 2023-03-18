@@ -1,0 +1,49 @@
+.list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.my-list {
+  font-family: Arial, sans-serif;
+  color: #333;
+  font-size: 20px;
+  width: max-content;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: left;
+}
+
+.my-list li {
+  margin-bottom: 20px;
+  padding-left: 30px;
+  line-height: 1.5;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+}
+
+.my-list li:before {
+  content: "\2022"; /* Unicode character for bullet */
+  color: #666;
+  font-size: 30px;
+  margin-right: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.my-list li a {
+  color: #333;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.my-list li:hover {
+  transform: scale(1.1);
+}
+
+.my-list li:hover a {
+  color: #ff5722;
+}
