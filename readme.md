@@ -23,6 +23,13 @@ Click the "Generate" button.
 The blocked content should now be displayed in the iframe.
 Note: This script should only be used for educational or research purposes. Misuse of this script may be in violation of your school or organization's policies and could result in disciplinary action.
 
+
+## Quick & Easy Deployment Options
+<br>
+
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)]([https://replit.com/github/NebulaServices/Nebula](https://github.com/AroriaNetwork/GoGuardian-Bypass))
+<br>
+
 ## Disclaimer
 This script is provided as-is, without any warranty or guarantee of any kind. Use at your own risk.
 
