@@ -5,11 +5,11 @@ To join our Discord server, click here.
 
 
 ## 🚀 Features
-GoGuardian Bypass: Access blocked websites on your school or organization's network with the GoGuardian bypass script.
-Easy to Use: Simply type in the URL of the blocked website and click the "Generate" button to create an iframe that displays the blocked content.
-Customizable: The script is open source and can be modified to fit your specific needs or preferences.
-Markdown Formatting: The README file uses Markdown formatting, making it easy to read and navigate.
-Discord Community: Join our Discord server to connect with other users, share tips and tricks, and get help with any issues you may encounter.
+1. GoGuardian Bypass: Access blocked websites on your school or organization's network with the GoGuardian bypass script.
+2. Easy to Use: Simply type in the URL of the blocked website and click the "Generate" button to create an iframe that displays the blocked content.
+3. Customizable: The script is open source and can be modified to fit your specific needs or preferences.
+4. Markdown Formatting: The README file uses Markdown formatting, making it easy to read and navigate.
+5. Discord Community: Join our Discord server to connect with other users, share tips and tricks, and get help with any issues you may encounter.
 
 
 ## How it Works
