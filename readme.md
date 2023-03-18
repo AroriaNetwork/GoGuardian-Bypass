@@ -28,7 +28,8 @@ Note: This script should only be used for educational or research purposes. Misu
 
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/AroriaNetwork/GoGuardian-Bypass)
 <br>
-
+[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AroriaNetwork/GoGuardian-Bypass)
+<br>
 ## Disclaimer
 This script is provided as-is, without any warranty or guarantee of any kind. Use at your own risk.
 
